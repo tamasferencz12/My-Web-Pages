@@ -9,6 +9,6 @@
 
 1.In terminal, open project folder
 
-2.NPM install (npm install)
+2.Install NPM (`npm install`)
 
-3.Run NPM (npm run start)
+3.Run NPM (`npm run start`)
