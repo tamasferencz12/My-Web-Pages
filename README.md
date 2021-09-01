@@ -7,8 +7,12 @@
 
 ### WHAT YOU NEED TO INSTALL
 
-1.In terminal, open project folder
+1. In terminal, open project folder
 
-2.Install NPM (`npm install`)
+2. Install NPM (`npm install`)
 
-3.Run NPM (`npm run start`)
+3. Run NPM (`npm run start`)
+
+### Authors and acknowledgment
+
+Based on Jonas Schmedtmann's course
