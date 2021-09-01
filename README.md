@@ -7,4 +7,6 @@
 
 ### WHAT YOU NEED TO INSTALL
 
--NPM install (npm install)
+1.In terminal, open project folder
+2.NPM install (npm install)
+3.Run NPM (npm run start)
