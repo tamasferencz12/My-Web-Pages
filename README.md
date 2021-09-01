@@ -13,6 +13,6 @@
 
 3. Run NPM (`npm run start`)
 
-### Authors and acknowledgment
+### AUTORS AND ACKNOWLEDGMENT
 
 Based on Jonas Schmedtmann's course
