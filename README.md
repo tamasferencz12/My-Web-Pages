@@ -1,5 +1,5 @@
 # My-Web-Pages
-# Jonas Schmedtmann's course
+## Jonas Schmedtmann's course
 
 CHEAT SHEETS
 
